@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import us from '@/assets/images/us.jpg'
+import us from '@/assets/images/other/us.jpg'
 
 export default function AboutPage() {
   return (

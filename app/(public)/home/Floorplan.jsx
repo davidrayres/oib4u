@@ -1,6 +1,6 @@
 import Image from 'next/image'
-import floorplan1 from '@/assets/images/floorplan1.png'
-import floorplan2 from '@/assets/images/floorplan2.png'
+import floorplan1 from '@/assets/images/floorplan/floorplan1.png'
+import floorplan2 from '@/assets/images/floorplan/floorplan2.png'
 
 export default function Floorplan() {
   const imageUrl = '@/assets/images/floorplan1.png'
