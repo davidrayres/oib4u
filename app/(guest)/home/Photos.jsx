@@ -3,20 +3,20 @@
 import Image from 'next/image'
 import {IoMdPhotos} from 'react-icons/io'
 
-import F2Den1 from '@/assets/images/floor2/den/f2-den-1.jpg'
-import F2Kitchen1 from '@/assets/images/floor2/kitchen/f2-kitchen-1.jpg'
-import F2MBed1 from '@/assets/images/floor2/main/f2-mbed-1.jpg'
-import F2GBed1 from '@/assets/images/floor2/guest/f2-gbed-1.jpg'
+import F2Den1 from '@/public/images/floor2/den/f2-den-1.jpg'
+import F2Kitchen1 from '@/public/images/floor2/kitchen/f2-kitchen-1.jpg'
+import F2MBed1 from '@/public/images/floor2/main/f2-mbed-1.jpg'
+import F2GBed1 from '@/public/images/floor2/guest/f2-gbed-1.jpg'
 
-import F1Den1 from '@/assets/images/floor1/den/f1-den-1.jpg'
-import F1Kitchen1 from '@/assets/images/floor1/kitchen/f1-kitchen-1.jpg'
-import F1MBed1 from '@/assets/images/floor1/main/f1-mbed-1.jpg'
-import F1GBed1 from '@/assets/images/floor1/guest/f1-gbed-1.jpg'
-import F1Bunk1 from '@/assets/images/floor1/bunk/f1-bbed-1.jpg'
+import F1Den1 from '@/public/images/floor1/den/f1-den-1.jpg'
+import F1Kitchen1 from '@/public/images/floor1/kitchen/f1-kitchen-1.jpg'
+import F1MBed1 from '@/public/images/floor1/main/f1-mbed-1.jpg'
+import F1GBed1 from '@/public/images/floor1/guest/f1-gbed-1.jpg'
+import F1Bunk1 from '@/public/images/floor1/bunk/f1-bbed-1.jpg'
 
-import House1 from '@/assets/images/exterior/house-1.jpg'
-import Carport1 from '@/assets/images/exterior/carport-1.jpg'
-import Clubhouse1 from '@/assets/images/pool/pool-1.png'
+import House1 from '@/public/images/exterior/house-1.jpg'
+import Carport1 from '@/public/images/exterior/carport-1.jpg'
+import Clubhouse1 from '@/public/images/pool/pool-1.png'
 
 import {Gallery, Item} from 'react-photoswipe-gallery'
 

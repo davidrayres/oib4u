@@ -1,9 +1,9 @@
 import Image from 'next/image'
-import floorplan1 from '@/assets/images/floorplan/floorplan1.png'
-import floorplan2 from '@/assets/images/floorplan/floorplan2.png'
+import floorplan1 from '@/public/images/floorplan/floorplan1.png'
+import floorplan2 from '@/public/images/floorplan/floorplan2.png'
 
 export default function Floorplan() {
-  const imageUrl = '@/assets/images/floorplan1.png'
+  const imageUrl = '@/public/images/floorplan1.png'
   return (
     <div className='accordian'>
       <label className='accordian-label peer'>
