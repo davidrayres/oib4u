@@ -6,7 +6,7 @@ export default function ContactPage() {
       <p>Email oib4u@me.com</p>
       <p>Jodie & David Ayres</p>
       <p>Phone 704.364.1509</p>
-      <p>Diane & Dave Robinson</p>
+      <p>Diane Robinson</p>
       <p>Phone 336.584.0727</p>
     </main>
   )
