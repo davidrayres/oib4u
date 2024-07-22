@@ -1,8 +1,8 @@
 import Image from 'next/image'
-import pool1 from '@/public/images/pool/pool-1.png'
-import pool2 from '@/public/images/pool/pool-2.png'
-import pool3 from '@/public/images/pool/pool-3.png'
-import pool4 from '@/public/images/pool/pool-4.png'
+import pool1 from '@/public/images/exterior/pool/pool1.jpg'
+import pool2 from '@/public/images/exterior/pool/pool2.jpg'
+import pool3 from '@/public/images/exterior/pool/pool3.jpg'
+import pool4 from '@/public/images/exterior/pool/pool4.jpg'
 
 export default function Pool() {
   return (

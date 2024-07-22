@@ -96,31 +96,19 @@ body {
 }
 
 /* home page photo styles ================ */
-.photos-section {
-  padding: 1rem;
-}
-
 .photos-container {
+  padding: 1rem;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(285px, 1fr));
   grid-gap: 1rem;
 }
 
-.photo-box {
-  border: 1px solid #e2e2e2;
-  border-radius: 0.5rem;
-}
-
 .photo-container {
+  border: 1px solid #e2e2e2;
   max-height: 220px;
   overflow: hidden;
   border-radius: 0.5rem;
   position: relative;
-}
-
-.photo {
-  /* width: 100%; */
-  /* height: auto; */
 }
 
 .photo-caption {
