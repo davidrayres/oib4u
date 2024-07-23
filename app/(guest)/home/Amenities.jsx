@@ -10,10 +10,10 @@ export default function Amenities() {
       <div className='accordian-content peer-has-[:checked]:block'>
         <ul className='ml-5 list-disc'>
           <li>Inverted floor plan with family room, kitchen and dining room on top level for better views</li>
+          <li>Oceanfront Pool and Clubhouse with restrooms & covered picnic area</li>
           <li>Elevator</li>
-          <li>Upstairs and downstairs living rooms have 46" TVs with DVD players</li>
-          <li>The living space downstairs has a 46" TVs and DVD player</li>
-          <li>22" TVs and DVD players in each bedroom (except bunk room)</li>
+          <li>Upstairs and downstairs living rooms with large smart TV's</li>
+          <li>22" TVs and DVD players in each bedroom</li>
           <li>Stereo with CD player and ipod docking station</li>
           <li>Wireless internet</li>
           <li>Washer/Dryer</li>
@@ -31,10 +31,9 @@ export default function Amenities() {
           <li>Hair dryers in each bathroom</li>
           <li>Alarm clocks in each bedroom</li>
           <li>Board games, books & magazines</li>
-          <li>Oceanfront Pool and Clubhouse with restrooms & covered picnic area</li>
         </ul>
         <br />
-        <p>There are an abundance of upgrades making it feel more like a luxury home than a rental property.</p>
+        <p>There are an abundance of conveniences making it feel more like a luxury home than a rental property.</p>
         <br />
         <p>
           *You must bring your own linens (sheets, pillow cases, bath towels, washcloths, beach towels and dish towels) or rent from{' '}

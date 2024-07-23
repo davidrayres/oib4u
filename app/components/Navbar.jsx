@@ -45,9 +45,9 @@ export default function Navbar({user}) {
                   <Link href='/contact' className={`${pathname === '/contact' ? 'navlink-active' : ''} navlink`}>
                     Contact Us
                   </Link>
-                  <Link href='#' className='text-3xl'>
+                  {/* <Link href='#' className='text-3xl'>
                     <PiSignInLight />
-                  </Link>
+                  </Link> */}
                 </>
               </div>
             </div>

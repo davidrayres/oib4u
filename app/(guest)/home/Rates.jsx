@@ -6,9 +6,6 @@ export default function Rates() {
         <input className='accordian-ui' type='checkbox' />
       </label>
       <div className='accordian-content peer-has-[:checked]:block'>
-        <p>Nighly...</p>
-        <p>Weekly...</p>
-        <p>Monthly...</p>
       </div>
     </div>
   )
