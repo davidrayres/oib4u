@@ -29,7 +29,7 @@ export default function Navbar({user}) {
             {/* <!-- Logo --> */}
             <Link className='flex items-center flex-shrink-0' href='/'>
               <Image className='w-auto h-10' src={logo} alt='PropertyPulse' />
-              <span className='hidden ml-2 text-2xl font-bold text-white md:block'>OIB | 86 W Second</span>
+              <span className='hidden ml-2 text-2xl font-bold text-[#F3E1CE] md:block'>OIB | 86 W Second</span>
             </Link>
 
             {/* <!-- Desktop Menu (hidden below md screens) --> */}
